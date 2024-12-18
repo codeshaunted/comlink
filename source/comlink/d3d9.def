@@ -1,0 +1,16 @@
+EXPORTS
+D3DPERF_BeginEvent=jumpD3DPERF_BeginEvent @1
+D3DPERF_EndEvent=jumpD3DPERF_EndEvent @2
+D3DPERF_GetStatus=jumpD3DPERF_GetStatus @3
+D3DPERF_QueryRepeatFrame=jumpD3DPERF_QueryRepeatFrame @4
+D3DPERF_SetMarker=jumpD3DPERF_SetMarker @5
+D3DPERF_SetOptions=jumpD3DPERF_SetOptions @6
+D3DPERF_SetRegion=jumpD3DPERF_SetRegion @7
+DebugSetLevel=jumpDebugSetLevel @8
+DebugSetMute=jumpDebugSetMute @9
+Direct3D9EnableMaximizedWindowedModeShim=jumpDirect3D9EnableMaximizedWindowedModeShim @10
+Direct3DCreate9=jumpDirect3DCreate9 @11
+Direct3DCreate9Ex=jumpDirect3DCreate9Ex @12
+Direct3DShaderValidatorCreate9=jumpDirect3DShaderValidatorCreate9 @13
+PSGPError=jumpPSGPError @14
+PSGPSampleTexture=jumpPSGPSampleTexture @15
